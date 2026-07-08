@@ -1,0 +1,765 @@
+{
+  "AFG": {
+    "iso": "AFG",
+    "name": "Afghanistan",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "ALB": {
+    "iso": "ALB",
+    "name": "Albania",
+    "artistCount": 1,
+    "artworkCount": 5,
+    "totalCollaborations": 2
+  },
+  "ARE": {
+    "iso": "ARE",
+    "name": "United Arab Emirates",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "ARG": {
+    "iso": "ARG",
+    "name": "Argentina",
+    "artistCount": 27,
+    "artworkCount": 312,
+    "totalCollaborations": 282
+  },
+  "AUS": {
+    "iso": "AUS",
+    "name": "Australia",
+    "artistCount": 11,
+    "artworkCount": 71,
+    "totalCollaborations": 54
+  },
+  "AUT": {
+    "iso": "AUT",
+    "name": "Austria",
+    "artistCount": 52,
+    "artworkCount": 363,
+    "totalCollaborations": 211
+  },
+  "AZE": {
+    "iso": "AZE",
+    "name": "Azerbaijan",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "BEL": {
+    "iso": "BEL",
+    "name": "Belgium",
+    "artistCount": 32,
+    "artworkCount": 326,
+    "totalCollaborations": 247
+  },
+  "BEN": {
+    "iso": "BEN",
+    "name": "Benin",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "BGD": {
+    "iso": "BGD",
+    "name": "Bangladesh",
+    "artistCount": 1,
+    "artworkCount": 2,
+    "totalCollaborations": 2
+  },
+  "BGR": {
+    "iso": "BGR",
+    "name": "Bulgaria",
+    "artistCount": 1,
+    "artworkCount": 2,
+    "totalCollaborations": 1
+  },
+  "BHS": {
+    "iso": "BHS",
+    "name": "Bahamas",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "BIH": {
+    "iso": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "artistCount": 2,
+    "artworkCount": 21,
+    "totalCollaborations": 8
+  },
+  "BOL": {
+    "iso": "BOL",
+    "name": "Bolivia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "BRA": {
+    "iso": "BRA",
+    "name": "Brazil",
+    "artistCount": 19,
+    "artworkCount": 114,
+    "totalCollaborations": 73
+  },
+  "CAN": {
+    "iso": "CAN",
+    "name": "Canada",
+    "artistCount": 46,
+    "artworkCount": 291,
+    "totalCollaborations": 237
+  },
+  "CHE": {
+    "iso": "CHE",
+    "name": "Switzerland",
+    "artistCount": 70,
+    "artworkCount": 908,
+    "totalCollaborations": 497
+  },
+  "CHL": {
+    "iso": "CHL",
+    "name": "Chile",
+    "artistCount": 7,
+    "artworkCount": 76,
+    "totalCollaborations": 78
+  },
+  "CHN": {
+    "iso": "CHN",
+    "name": "China",
+    "artistCount": 14,
+    "artworkCount": 117,
+    "totalCollaborations": 60
+  },
+  "CIV": {
+    "iso": "CIV",
+    "name": "Ivory Coast",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "CMR": {
+    "iso": "CMR",
+    "name": "Cameroon",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "COD": {
+    "iso": "COD",
+    "name": "Democratic Republic of the Congo",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "COL": {
+    "iso": "COL",
+    "name": "Colombia",
+    "artistCount": 16,
+    "artworkCount": 156,
+    "totalCollaborations": 20
+  },
+  "CRI": {
+    "iso": "CRI",
+    "name": "Costa Rica",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "CUB": {
+    "iso": "CUB",
+    "name": "Cuba",
+    "artistCount": 7,
+    "artworkCount": 55,
+    "totalCollaborations": 59
+  },
+  "CYP": {
+    "iso": "CYP",
+    "name": "Cyprus",
+    "artistCount": 1,
+    "artworkCount": 1,
+    "totalCollaborations": 1
+  },
+  "CZE": {
+    "iso": "CZE",
+    "name": "Czech Republic",
+    "artistCount": 19,
+    "artworkCount": 177,
+    "totalCollaborations": 105
+  },
+  "DEU": {
+    "iso": "DEU",
+    "name": "Germany",
+    "artistCount": 233,
+    "artworkCount": 2540,
+    "totalCollaborations": 652
+  },
+  "DNK": {
+    "iso": "DNK",
+    "name": "Denmark",
+    "artistCount": 30,
+    "artworkCount": 245,
+    "totalCollaborations": 158
+  },
+  "DZA": {
+    "iso": "DZA",
+    "name": "Algeria",
+    "artistCount": 2,
+    "artworkCount": 12,
+    "totalCollaborations": 14
+  },
+  "ECU": {
+    "iso": "ECU",
+    "name": "Ecuador",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "EGY": {
+    "iso": "EGY",
+    "name": "Egypt",
+    "artistCount": 1,
+    "artworkCount": 35,
+    "totalCollaborations": 3
+  },
+  "ESP": {
+    "iso": "ESP",
+    "name": "Spain",
+    "artistCount": 35,
+    "artworkCount": 444,
+    "totalCollaborations": 160
+  },
+  "EST": {
+    "iso": "EST",
+    "name": "Estonia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "ETH": {
+    "iso": "ETH",
+    "name": "Ethiopia",
+    "artistCount": 1,
+    "artworkCount": 4,
+    "totalCollaborations": 26
+  },
+  "FIN": {
+    "iso": "FIN",
+    "name": "Finland",
+    "artistCount": 2,
+    "artworkCount": 3,
+    "totalCollaborations": 4
+  },
+  "FRA": {
+    "iso": "FRA",
+    "name": "France",
+    "artistCount": 255,
+    "artworkCount": 2638,
+    "totalCollaborations": 1970
+  },
+  "GBR": {
+    "iso": "GBR",
+    "name": "United Kingdom",
+    "artistCount": 198,
+    "artworkCount": 1540,
+    "totalCollaborations": 616
+  },
+  "GEO": {
+    "iso": "GEO",
+    "name": "Georgia",
+    "artistCount": 5,
+    "artworkCount": 63,
+    "totalCollaborations": 72
+  },
+  "GHA": {
+    "iso": "GHA",
+    "name": "Ghana",
+    "artistCount": 1,
+    "artworkCount": 3,
+    "totalCollaborations": 4
+  },
+  "GRC": {
+    "iso": "GRC",
+    "name": "Greece",
+    "artistCount": 4,
+    "artworkCount": 45,
+    "totalCollaborations": 65
+  },
+  "GTM": {
+    "iso": "GTM",
+    "name": "Guatemala",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "HRV": {
+    "iso": "HRV",
+    "name": "Croatia",
+    "artistCount": 9,
+    "artworkCount": 67,
+    "totalCollaborations": 20
+  },
+  "HTI": {
+    "iso": "HTI",
+    "name": "Haiti",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "HUN": {
+    "iso": "HUN",
+    "name": "Hungary",
+    "artistCount": 7,
+    "artworkCount": 51,
+    "totalCollaborations": 1320
+  },
+  "IDN": {
+    "iso": "IDN",
+    "name": "Indonesia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "IND": {
+    "iso": "IND",
+    "name": "India",
+    "artistCount": 8,
+    "artworkCount": 50,
+    "totalCollaborations": 28
+  },
+  "IRL": {
+    "iso": "IRL",
+    "name": "Ireland",
+    "artistCount": 7,
+    "artworkCount": 14,
+    "totalCollaborations": 19
+  },
+  "IRN": {
+    "iso": "IRN",
+    "name": "Iran",
+    "artistCount": 1,
+    "artworkCount": 6,
+    "totalCollaborations": 8
+  },
+  "IRQ": {
+    "iso": "IRQ",
+    "name": "Iraq",
+    "artistCount": 1,
+    "artworkCount": 1,
+    "totalCollaborations": 26
+  },
+  "ISL": {
+    "iso": "ISL",
+    "name": "Iceland",
+    "artistCount": 7,
+    "artworkCount": 54,
+    "totalCollaborations": 58
+  },
+  "ISR": {
+    "iso": "ISR",
+    "name": "Israel",
+    "artistCount": 9,
+    "artworkCount": 56,
+    "totalCollaborations": 39
+  },
+  "ITA": {
+    "iso": "ITA",
+    "name": "Italy",
+    "artistCount": 70,
+    "artworkCount": 833,
+    "totalCollaborations": 425
+  },
+  "JAM": {
+    "iso": "JAM",
+    "name": "Jamaica",
+    "artistCount": 1,
+    "artworkCount": 3,
+    "totalCollaborations": 1
+  },
+  "JPN": {
+    "iso": "JPN",
+    "name": "Japan",
+    "artistCount": 48,
+    "artworkCount": 393,
+    "totalCollaborations": 537
+  },
+  "KEN": {
+    "iso": "KEN",
+    "name": "Kenya",
+    "artistCount": 1,
+    "artworkCount": 14,
+    "totalCollaborations": 4
+  },
+  "KHM": {
+    "iso": "KHM",
+    "name": "Cambodia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "KOR": {
+    "iso": "KOR",
+    "name": "South Korea",
+    "artistCount": 3,
+    "artworkCount": 28,
+    "totalCollaborations": 15
+  },
+  "KWT": {
+    "iso": "KWT",
+    "name": "Kuwait",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "LBN": {
+    "iso": "LBN",
+    "name": "Lebanon",
+    "artistCount": 2,
+    "artworkCount": 50,
+    "totalCollaborations": 14
+  },
+  "LKA": {
+    "iso": "LKA",
+    "name": "Sri Lanka",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "LTU": {
+    "iso": "LTU",
+    "name": "Lithuania",
+    "artistCount": 1,
+    "artworkCount": 13,
+    "totalCollaborations": 3
+  },
+  "LVA": {
+    "iso": "LVA",
+    "name": "Latvia",
+    "artistCount": 1,
+    "artworkCount": 40,
+    "totalCollaborations": 15
+  },
+  "MAR": {
+    "iso": "MAR",
+    "name": "Morocco",
+    "artistCount": 5,
+    "artworkCount": 16,
+    "totalCollaborations": 32
+  },
+  "MEX": {
+    "iso": "MEX",
+    "name": "Mexico",
+    "artistCount": 42,
+    "artworkCount": 431,
+    "totalCollaborations": 250
+  },
+  "MKD": {
+    "iso": "MKD",
+    "name": "North Macedonia",
+    "artistCount": 2,
+    "artworkCount": 12,
+    "totalCollaborations": 4
+  },
+  "MLI": {
+    "iso": "MLI",
+    "name": "Mali",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "MOZ": {
+    "iso": "MOZ",
+    "name": "Mozambique",
+    "artistCount": 2,
+    "artworkCount": 5,
+    "totalCollaborations": 26
+  },
+  "MYS": {
+    "iso": "MYS",
+    "name": "Malaysia",
+    "artistCount": 1,
+    "artworkCount": 40,
+    "totalCollaborations": 50
+  },
+  "NAM": {
+    "iso": "NAM",
+    "name": "Namibia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "NGA": {
+    "iso": "NGA",
+    "name": "Nigeria",
+    "artistCount": 1,
+    "artworkCount": 1,
+    "totalCollaborations": 26
+  },
+  "NIC": {
+    "iso": "NIC",
+    "name": "Nicaragua",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "NLD": {
+    "iso": "NLD",
+    "name": "Netherlands",
+    "artistCount": 53,
+    "artworkCount": 420,
+    "totalCollaborations": 448
+  },
+  "NOR": {
+    "iso": "NOR",
+    "name": "Norway",
+    "artistCount": 4,
+    "artworkCount": 5,
+    "totalCollaborations": 6
+  },
+  "NZL": {
+    "iso": "NZL",
+    "name": "New Zealand",
+    "artistCount": 3,
+    "artworkCount": 3,
+    "totalCollaborations": 4
+  },
+  "PAK": {
+    "iso": "PAK",
+    "name": "Pakistan",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "PAN": {
+    "iso": "PAN",
+    "name": "Panama",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "PER": {
+    "iso": "PER",
+    "name": "Peru",
+    "artistCount": 1,
+    "artworkCount": 7,
+    "totalCollaborations": 1
+  },
+  "PHL": {
+    "iso": "PHL",
+    "name": "Philippines",
+    "artistCount": 2,
+    "artworkCount": 27,
+    "totalCollaborations": 27
+  },
+  "POL": {
+    "iso": "POL",
+    "name": "Poland",
+    "artistCount": 18,
+    "artworkCount": 133,
+    "totalCollaborations": 71
+  },
+  "PRI": {
+    "iso": "PRI",
+    "name": "Puerto Rico",
+    "artistCount": 2,
+    "artworkCount": 5,
+    "totalCollaborations": 29
+  },
+  "PRT": {
+    "iso": "PRT",
+    "name": "Portugal",
+    "artistCount": 3,
+    "artworkCount": 13,
+    "totalCollaborations": 56
+  },
+  "PRY": {
+    "iso": "PRY",
+    "name": "Paraguay",
+    "artistCount": 1,
+    "artworkCount": 2,
+    "totalCollaborations": 10
+  },
+  "PSE": {
+    "iso": "PSE",
+    "name": "Palestine",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "ROU": {
+    "iso": "ROU",
+    "name": "Romania",
+    "artistCount": 8,
+    "artworkCount": 33,
+    "totalCollaborations": 37
+  },
+  "RUS": {
+    "iso": "RUS",
+    "name": "Russia",
+    "artistCount": 47,
+    "artworkCount": 762,
+    "totalCollaborations": 208
+  },
+  "SDN": {
+    "iso": "SDN",
+    "name": "Sudan",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "SEN": {
+    "iso": "SEN",
+    "name": "Senegal",
+    "artistCount": 2,
+    "artworkCount": 1,
+    "totalCollaborations": 26
+  },
+  "SGP": {
+    "iso": "SGP",
+    "name": "Singapore",
+    "artistCount": 1,
+    "artworkCount": 40,
+    "totalCollaborations": 50
+  },
+  "SLV": {
+    "iso": "SLV",
+    "name": "El Salvador",
+    "artistCount": 1,
+    "artworkCount": 1,
+    "totalCollaborations": 1
+  },
+  "SRB": {
+    "iso": "SRB",
+    "name": "Serbia",
+    "artistCount": 6,
+    "artworkCount": 93,
+    "totalCollaborations": 10
+  },
+  "SVK": {
+    "iso": "SVK",
+    "name": "Slovakia",
+    "artistCount": 1,
+    "artworkCount": 40,
+    "totalCollaborations": 140
+  },
+  "SVN": {
+    "iso": "SVN",
+    "name": "Slovenia",
+    "artistCount": 3,
+    "artworkCount": 7,
+    "totalCollaborations": 5
+  },
+  "SWE": {
+    "iso": "SWE",
+    "name": "Sweden",
+    "artistCount": 17,
+    "artworkCount": 66,
+    "totalCollaborations": 87
+  },
+  "SYR": {
+    "iso": "SYR",
+    "name": "Syria",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "THA": {
+    "iso": "THA",
+    "name": "Thailand",
+    "artistCount": 3,
+    "artworkCount": 36,
+    "totalCollaborations": 19
+  },
+  "TUN": {
+    "iso": "TUN",
+    "name": "Tunisia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "TUR": {
+    "iso": "TUR",
+    "name": "Turkey",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "TWN": {
+    "iso": "TWN",
+    "name": "Taiwan",
+    "artistCount": 1,
+    "artworkCount": 6,
+    "totalCollaborations": 30
+  },
+  "TZA": {
+    "iso": "TZA",
+    "name": "Tanzania",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "UGA": {
+    "iso": "UGA",
+    "name": "Uganda",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  },
+  "UKR": {
+    "iso": "UKR",
+    "name": "Ukraine",
+    "artistCount": 6,
+    "artworkCount": 151,
+    "totalCollaborations": 111
+  },
+  "URY": {
+    "iso": "URY",
+    "name": "Uruguay",
+    "artistCount": 8,
+    "artworkCount": 43,
+    "totalCollaborations": 21
+  },
+  "USA": {
+    "iso": "USA",
+    "name": "United States",
+    "artistCount": 795,
+    "artworkCount": 9338,
+    "totalCollaborations": 2507
+  },
+  "UZB": {
+    "iso": "UZB",
+    "name": "Uzbekistan",
+    "artistCount": 1,
+    "artworkCount": 6,
+    "totalCollaborations": 1
+  },
+  "VEN": {
+    "iso": "VEN",
+    "name": "Venezuela",
+    "artistCount": 17,
+    "artworkCount": 165,
+    "totalCollaborations": 54
+  },
+  "VNM": {
+    "iso": "VNM",
+    "name": "Vietnam",
+    "artistCount": 4,
+    "artworkCount": 2,
+    "totalCollaborations": 2
+  },
+  "ZAF": {
+    "iso": "ZAF",
+    "name": "South Africa",
+    "artistCount": 7,
+    "artworkCount": 82,
+    "totalCollaborations": 76
+  },
+  "ZWE": {
+    "iso": "ZWE",
+    "name": "Zimbabwe",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "totalCollaborations": 0
+  }
+}

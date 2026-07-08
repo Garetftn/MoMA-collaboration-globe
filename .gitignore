@@ -1,0 +1,48 @@
+# Redundant / oversized JSON exports (use Artworks.csv + Artists.csv)
+Artworks.json
+Artists.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# Duplicate build output (canonical copy lives in frontend/public/data/)
+data/processed/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local scratch / experiments (not part of the globe project)
+tools_*.csv
+tools_nodes.csv
+tools_edges.csv
+nodes_*.csv
+edges_*.csv
+Untitled-1.ipynb
+normalize_countries.py
+demonyms.csv
+data/imageability_jcls-main/
+data/*.zip
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*

@@ -1,0 +1,2190 @@
+[
+  {
+    "id": "AFG",
+    "country": "Afghanistan",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 33.9391,
+    "lng": 67.71,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "ALB",
+    "country": "Albania",
+    "artistCount": 1,
+    "artworkCount": 5,
+    "lat": 41.1533,
+    "lng": 20.1683,
+    "topCollaborators": [
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 1
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 2
+  },
+  {
+    "id": "ARE",
+    "country": "United Arab Emirates",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 23.4241,
+    "lng": 53.8478,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "ARG",
+    "country": "Argentina",
+    "artistCount": 27,
+    "artworkCount": 312,
+    "lat": -38.4161,
+    "lng": -63.6167,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 161
+      },
+      {
+        "iso": "MEX",
+        "name": "Mexico",
+        "count": 33
+      },
+      {
+        "iso": "BEL",
+        "name": "Belgium",
+        "count": 32
+      }
+    ],
+    "totalCollaborations": 282
+  },
+  {
+    "id": "AUS",
+    "country": "Australia",
+    "artistCount": 11,
+    "artworkCount": 71,
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 7
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 6
+      },
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 5
+      }
+    ],
+    "totalCollaborations": 54
+  },
+  {
+    "id": "AUT",
+    "country": "Austria",
+    "artistCount": 52,
+    "artworkCount": 363,
+    "lat": 47.5162,
+    "lng": 14.5501,
+    "topCollaborators": [
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 71
+      },
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 29
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 27
+      }
+    ],
+    "totalCollaborations": 211
+  },
+  {
+    "id": "AZE",
+    "country": "Azerbaijan",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 40.1431,
+    "lng": 47.5769,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "BEL",
+    "country": "Belgium",
+    "artistCount": 32,
+    "artworkCount": 326,
+    "lat": 50.5039,
+    "lng": 4.4699,
+    "topCollaborators": [
+      {
+        "iso": "ARG",
+        "name": "Argentina",
+        "count": 32
+      },
+      {
+        "iso": "MEX",
+        "name": "Mexico",
+        "count": 32
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 23
+      }
+    ],
+    "totalCollaborations": 247
+  },
+  {
+    "id": "BEN",
+    "country": "Benin",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 9.3077,
+    "lng": 2.3158,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "BGD",
+    "country": "Bangladesh",
+    "artistCount": 1,
+    "artworkCount": 2,
+    "lat": 23.685,
+    "lng": 90.3563,
+    "topCollaborators": [
+      {
+        "iso": "IND",
+        "name": "India",
+        "count": 2
+      }
+    ],
+    "totalCollaborations": 2
+  },
+  {
+    "id": "BGR",
+    "country": "Bulgaria",
+    "artistCount": 1,
+    "artworkCount": 2,
+    "lat": 42.7339,
+    "lng": 25.4858,
+    "topCollaborators": [
+      {
+        "iso": "ITA",
+        "name": "Italy",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 1
+  },
+  {
+    "id": "BHS",
+    "country": "Bahamas",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 25.0343,
+    "lng": -77.3963,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "artistCount": 2,
+    "artworkCount": 21,
+    "lat": 43.9159,
+    "lng": 17.6791,
+    "topCollaborators": [
+      {
+        "iso": "HRV",
+        "name": "Croatia",
+        "count": 5
+      },
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 3
+      }
+    ],
+    "totalCollaborations": 8
+  },
+  {
+    "id": "BOL",
+    "country": "Bolivia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": -16.2902,
+    "lng": -63.5887,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "BRA",
+    "country": "Brazil",
+    "artistCount": 19,
+    "artworkCount": 114,
+    "lat": -14.235,
+    "lng": -51.9253,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 18
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 15
+      },
+      {
+        "iso": "VEN",
+        "name": "Venezuela",
+        "count": 5
+      }
+    ],
+    "totalCollaborations": 73
+  },
+  {
+    "id": "CAN",
+    "country": "Canada",
+    "artistCount": 46,
+    "artworkCount": 291,
+    "lat": 56.1304,
+    "lng": -106.3468,
+    "topCollaborators": [
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 49
+      },
+      {
+        "iso": "HUN",
+        "name": "Hungary",
+        "count": 42
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 29
+      }
+    ],
+    "totalCollaborations": 237
+  },
+  {
+    "id": "CHE",
+    "country": "Switzerland",
+    "artistCount": 70,
+    "artworkCount": 908,
+    "lat": 46.8182,
+    "lng": 8.2275,
+    "topCollaborators": [
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 127
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 81
+      },
+      {
+        "iso": "AUT",
+        "name": "Austria",
+        "count": 71
+      }
+    ],
+    "totalCollaborations": 497
+  },
+  {
+    "id": "CHL",
+    "country": "Chile",
+    "artistCount": 7,
+    "artworkCount": 76,
+    "lat": -35.6751,
+    "lng": -71.543,
+    "topCollaborators": [
+      {
+        "iso": "BEL",
+        "name": "Belgium",
+        "count": 11
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 6
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 5
+      }
+    ],
+    "totalCollaborations": 78
+  },
+  {
+    "id": "CHN",
+    "country": "China",
+    "artistCount": 14,
+    "artworkCount": 117,
+    "lat": 35.8617,
+    "lng": 104.1954,
+    "topCollaborators": [
+      {
+        "iso": "JPN",
+        "name": "Japan",
+        "count": 17
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 9
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 6
+      }
+    ],
+    "totalCollaborations": 60
+  },
+  {
+    "id": "CIV",
+    "country": "Ivory Coast",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 7.54,
+    "lng": -5.5471,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "CMR",
+    "country": "Cameroon",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 7.3697,
+    "lng": 12.3547,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "COD",
+    "country": "Democratic Republic of the Congo",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": -4.0383,
+    "lng": 21.7587,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "COL",
+    "country": "Colombia",
+    "artistCount": 16,
+    "artworkCount": 156,
+    "lat": 4.5709,
+    "lng": -74.2973,
+    "topCollaborators": [
+      {
+        "iso": "VEN",
+        "name": "Venezuela",
+        "count": 4
+      },
+      {
+        "iso": "ARG",
+        "name": "Argentina",
+        "count": 3
+      },
+      {
+        "iso": "BRA",
+        "name": "Brazil",
+        "count": 3
+      }
+    ],
+    "totalCollaborations": 20
+  },
+  {
+    "id": "CRI",
+    "country": "Costa Rica",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 9.7489,
+    "lng": -83.7534,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "CUB",
+    "country": "Cuba",
+    "artistCount": 7,
+    "artworkCount": 55,
+    "lat": 21.5218,
+    "lng": -77.7812,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 10
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 9
+      },
+      {
+        "iso": "ESP",
+        "name": "Spain",
+        "count": 6
+      }
+    ],
+    "totalCollaborations": 59
+  },
+  {
+    "id": "CYP",
+    "country": "Cyprus",
+    "artistCount": 1,
+    "artworkCount": 1,
+    "lat": 35.1264,
+    "lng": 33.4299,
+    "topCollaborators": [
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 1
+  },
+  {
+    "id": "CZE",
+    "country": "Czech Republic",
+    "artistCount": 19,
+    "artworkCount": 177,
+    "lat": 49.8175,
+    "lng": 15.473,
+    "topCollaborators": [
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 16
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 14
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 11
+      }
+    ],
+    "totalCollaborations": 105
+  },
+  {
+    "id": "DEU",
+    "country": "Germany",
+    "artistCount": 233,
+    "artworkCount": 2540,
+    "lat": 51.1657,
+    "lng": 10.4515,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 165
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 84
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 47
+      }
+    ],
+    "totalCollaborations": 652
+  },
+  {
+    "id": "DNK",
+    "country": "Denmark",
+    "artistCount": 30,
+    "artworkCount": 245,
+    "lat": 56.2639,
+    "lng": 9.5018,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 43
+      },
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 28
+      },
+      {
+        "iso": "PHL",
+        "name": "Philippines",
+        "count": 25
+      }
+    ],
+    "totalCollaborations": 158
+  },
+  {
+    "id": "DZA",
+    "country": "Algeria",
+    "artistCount": 2,
+    "artworkCount": 12,
+    "lat": 28.0339,
+    "lng": 1.6596,
+    "topCollaborators": [
+      {
+        "iso": "LBN",
+        "name": "Lebanon",
+        "count": 10
+      },
+      {
+        "iso": "BEL",
+        "name": "Belgium",
+        "count": 1
+      },
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 14
+  },
+  {
+    "id": "ECU",
+    "country": "Ecuador",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": -1.8312,
+    "lng": -78.1834,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "EGY",
+    "country": "Egypt",
+    "artistCount": 1,
+    "artworkCount": 35,
+    "lat": 26.8206,
+    "lng": 30.8025,
+    "topCollaborators": [
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 1
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 1
+      },
+      {
+        "iso": "IND",
+        "name": "India",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 3
+  },
+  {
+    "id": "ESP",
+    "country": "Spain",
+    "artistCount": 35,
+    "artworkCount": 444,
+    "lat": 40.4637,
+    "lng": -3.7492,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 28
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 28
+      },
+      {
+        "iso": "ITA",
+        "name": "Italy",
+        "count": 11
+      }
+    ],
+    "totalCollaborations": 160
+  },
+  {
+    "id": "EST",
+    "country": "Estonia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 58.5953,
+    "lng": 25.0136,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "ETH",
+    "country": "Ethiopia",
+    "artistCount": 1,
+    "artworkCount": 4,
+    "lat": 9.145,
+    "lng": 40.4897,
+    "topCollaborators": [
+      {
+        "iso": "AUS",
+        "name": "Australia",
+        "count": 1
+      },
+      {
+        "iso": "BEL",
+        "name": "Belgium",
+        "count": 1
+      },
+      {
+        "iso": "CAN",
+        "name": "Canada",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 26
+  },
+  {
+    "id": "FIN",
+    "country": "Finland",
+    "artistCount": 2,
+    "artworkCount": 3,
+    "lat": 61.9241,
+    "lng": 25.7482,
+    "topCollaborators": [
+      {
+        "iso": "SWE",
+        "name": "Sweden",
+        "count": 1
+      },
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 1
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 4
+  },
+  {
+    "id": "FRA",
+    "country": "France",
+    "artistCount": 255,
+    "artworkCount": 2638,
+    "lat": 46.2276,
+    "lng": 2.2137,
+    "topCollaborators": [
+      {
+        "iso": "HUN",
+        "name": "Hungary",
+        "count": 656
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 564
+      },
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 127
+      }
+    ],
+    "totalCollaborations": 1970
+  },
+  {
+    "id": "GBR",
+    "country": "United Kingdom",
+    "artistCount": 198,
+    "artworkCount": 1540,
+    "lat": 55.3781,
+    "lng": -3.436,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 201
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 51
+      },
+      {
+        "iso": "NLD",
+        "name": "Netherlands",
+        "count": 48
+      }
+    ],
+    "totalCollaborations": 616
+  },
+  {
+    "id": "GEO",
+    "country": "Georgia",
+    "artistCount": 5,
+    "artworkCount": 63,
+    "lat": 42.3154,
+    "lng": 43.3569,
+    "topCollaborators": [
+      {
+        "iso": "RUS",
+        "name": "Russia",
+        "count": 41
+      },
+      {
+        "iso": "UKR",
+        "name": "Ukraine",
+        "count": 18
+      },
+      {
+        "iso": "ESP",
+        "name": "Spain",
+        "count": 3
+      }
+    ],
+    "totalCollaborations": 72
+  },
+  {
+    "id": "GHA",
+    "country": "Ghana",
+    "artistCount": 1,
+    "artworkCount": 3,
+    "lat": 7.9465,
+    "lng": -1.0232,
+    "topCollaborators": [
+      {
+        "iso": "AUT",
+        "name": "Austria",
+        "count": 1
+      },
+      {
+        "iso": "SWE",
+        "name": "Sweden",
+        "count": 1
+      },
+      {
+        "iso": "UKR",
+        "name": "Ukraine",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 4
+  },
+  {
+    "id": "GRC",
+    "country": "Greece",
+    "artistCount": 4,
+    "artworkCount": 45,
+    "lat": 39.0742,
+    "lng": 21.8243,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 8
+      },
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 7
+      },
+      {
+        "iso": "CAN",
+        "name": "Canada",
+        "count": 7
+      }
+    ],
+    "totalCollaborations": 65
+  },
+  {
+    "id": "GTM",
+    "country": "Guatemala",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 15.7835,
+    "lng": -90.2308,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "HRV",
+    "country": "Croatia",
+    "artistCount": 9,
+    "artworkCount": 67,
+    "lat": 45.1,
+    "lng": 15.2,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 10
+      },
+      {
+        "iso": "BIH",
+        "name": "Bosnia and Herzegovina",
+        "count": 5
+      },
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 4
+      }
+    ],
+    "totalCollaborations": 20
+  },
+  {
+    "id": "HTI",
+    "country": "Haiti",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 18.9712,
+    "lng": -72.2852,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "HUN",
+    "country": "Hungary",
+    "artistCount": 7,
+    "artworkCount": 51,
+    "lat": 47.1625,
+    "lng": 19.5033,
+    "topCollaborators": [
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 656
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 401
+      },
+      {
+        "iso": "JPN",
+        "name": "Japan",
+        "count": 95
+      }
+    ],
+    "totalCollaborations": 1320
+  },
+  {
+    "id": "IDN",
+    "country": "Indonesia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": -0.7893,
+    "lng": 113.9213,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "IND",
+    "country": "India",
+    "artistCount": 8,
+    "artworkCount": 50,
+    "lat": 20.5937,
+    "lng": 78.9629,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 7
+      },
+      {
+        "iso": "CHN",
+        "name": "China",
+        "count": 3
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 3
+      }
+    ],
+    "totalCollaborations": 28
+  },
+  {
+    "id": "IRL",
+    "country": "Ireland",
+    "artistCount": 7,
+    "artworkCount": 14,
+    "lat": 53.4129,
+    "lng": -8.2439,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 5
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 3
+      },
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 2
+      }
+    ],
+    "totalCollaborations": 19
+  },
+  {
+    "id": "IRN",
+    "country": "Iran",
+    "artistCount": 1,
+    "artworkCount": 6,
+    "lat": 32.4279,
+    "lng": 53.688,
+    "topCollaborators": [
+      {
+        "iso": "ESP",
+        "name": "Spain",
+        "count": 6
+      },
+      {
+        "iso": "NLD",
+        "name": "Netherlands",
+        "count": 1
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 8
+  },
+  {
+    "id": "IRQ",
+    "country": "Iraq",
+    "artistCount": 1,
+    "artworkCount": 1,
+    "lat": 33.2232,
+    "lng": 43.6793,
+    "topCollaborators": [
+      {
+        "iso": "AUS",
+        "name": "Australia",
+        "count": 1
+      },
+      {
+        "iso": "BEL",
+        "name": "Belgium",
+        "count": 1
+      },
+      {
+        "iso": "CAN",
+        "name": "Canada",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 26
+  },
+  {
+    "id": "ISL",
+    "country": "Iceland",
+    "artistCount": 7,
+    "artworkCount": 54,
+    "lat": 64.9631,
+    "lng": -19.0208,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 22
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 4
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 3
+      }
+    ],
+    "totalCollaborations": 58
+  },
+  {
+    "id": "ISR",
+    "country": "Israel",
+    "artistCount": 9,
+    "artworkCount": 56,
+    "lat": 31.0461,
+    "lng": 34.8516,
+    "topCollaborators": [
+      {
+        "iso": "BEL",
+        "name": "Belgium",
+        "count": 8
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 7
+      },
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 6
+      }
+    ],
+    "totalCollaborations": 39
+  },
+  {
+    "id": "ITA",
+    "country": "Italy",
+    "artistCount": 70,
+    "artworkCount": 833,
+    "lat": 41.8719,
+    "lng": 12.5674,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 99
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 84
+      },
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 36
+      }
+    ],
+    "totalCollaborations": 425
+  },
+  {
+    "id": "JAM",
+    "country": "Jamaica",
+    "artistCount": 1,
+    "artworkCount": 3,
+    "lat": 18.1096,
+    "lng": -77.2975,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 1
+  },
+  {
+    "id": "JPN",
+    "country": "Japan",
+    "artistCount": 48,
+    "artworkCount": 393,
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 174
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 120
+      },
+      {
+        "iso": "HUN",
+        "name": "Hungary",
+        "count": 95
+      }
+    ],
+    "totalCollaborations": 537
+  },
+  {
+    "id": "KEN",
+    "country": "Kenya",
+    "artistCount": 1,
+    "artworkCount": 14,
+    "lat": -0.0236,
+    "lng": 37.9062,
+    "topCollaborators": [
+      {
+        "iso": "CHN",
+        "name": "China",
+        "count": 1
+      },
+      {
+        "iso": "IND",
+        "name": "India",
+        "count": 1
+      },
+      {
+        "iso": "MEX",
+        "name": "Mexico",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 4
+  },
+  {
+    "id": "KHM",
+    "country": "Cambodia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 12.5657,
+    "lng": 104.991,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "KOR",
+    "country": "South Korea",
+    "artistCount": 3,
+    "artworkCount": 28,
+    "lat": 35.9078,
+    "lng": 127.7669,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 4
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 2
+      },
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 2
+      }
+    ],
+    "totalCollaborations": 15
+  },
+  {
+    "id": "KWT",
+    "country": "Kuwait",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 29.3117,
+    "lng": 47.4818,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "LBN",
+    "country": "Lebanon",
+    "artistCount": 2,
+    "artworkCount": 50,
+    "lat": 33.8547,
+    "lng": 35.8623,
+    "topCollaborators": [
+      {
+        "iso": "DZA",
+        "name": "Algeria",
+        "count": 10
+      },
+      {
+        "iso": "DNK",
+        "name": "Denmark",
+        "count": 1
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 14
+  },
+  {
+    "id": "LKA",
+    "country": "Sri Lanka",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 7.8731,
+    "lng": 80.7718,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "LTU",
+    "country": "Lithuania",
+    "artistCount": 1,
+    "artworkCount": 13,
+    "lat": 55.1694,
+    "lng": 23.8813,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 3
+      }
+    ],
+    "totalCollaborations": 3
+  },
+  {
+    "id": "LVA",
+    "country": "Latvia",
+    "artistCount": 1,
+    "artworkCount": 40,
+    "lat": 56.8796,
+    "lng": 24.6032,
+    "topCollaborators": [
+      {
+        "iso": "RUS",
+        "name": "Russia",
+        "count": 15
+      }
+    ],
+    "totalCollaborations": 15
+  },
+  {
+    "id": "MAR",
+    "country": "Morocco",
+    "artistCount": 5,
+    "artworkCount": 16,
+    "lat": 31.7917,
+    "lng": -7.0926,
+    "topCollaborators": [
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 2
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 2
+      },
+      {
+        "iso": "AUT",
+        "name": "Austria",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 32
+  },
+  {
+    "id": "MEX",
+    "country": "Mexico",
+    "artistCount": 42,
+    "artworkCount": 431,
+    "lat": 23.6345,
+    "lng": -102.5528,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 87
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 34
+      },
+      {
+        "iso": "ARG",
+        "name": "Argentina",
+        "count": 33
+      }
+    ],
+    "totalCollaborations": 250
+  },
+  {
+    "id": "MKD",
+    "country": "North Macedonia",
+    "artistCount": 2,
+    "artworkCount": 12,
+    "lat": 41.6086,
+    "lng": 21.7453,
+    "topCollaborators": [
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 4
+      }
+    ],
+    "totalCollaborations": 4
+  },
+  {
+    "id": "MLI",
+    "country": "Mali",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 17.5707,
+    "lng": -3.9962,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "MOZ",
+    "country": "Mozambique",
+    "artistCount": 2,
+    "artworkCount": 5,
+    "lat": -18.6657,
+    "lng": 35.5296,
+    "topCollaborators": [
+      {
+        "iso": "AUS",
+        "name": "Australia",
+        "count": 1
+      },
+      {
+        "iso": "BEL",
+        "name": "Belgium",
+        "count": 1
+      },
+      {
+        "iso": "CAN",
+        "name": "Canada",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 26
+  },
+  {
+    "id": "MYS",
+    "country": "Malaysia",
+    "artistCount": 1,
+    "artworkCount": 40,
+    "lat": 4.2105,
+    "lng": 101.9758,
+    "topCollaborators": [
+      {
+        "iso": "SGP",
+        "name": "Singapore",
+        "count": 50
+      }
+    ],
+    "totalCollaborations": 50
+  },
+  {
+    "id": "NAM",
+    "country": "Namibia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": -22.9576,
+    "lng": 18.4904,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "NGA",
+    "country": "Nigeria",
+    "artistCount": 1,
+    "artworkCount": 1,
+    "lat": 9.082,
+    "lng": 8.6753,
+    "topCollaborators": [
+      {
+        "iso": "AUS",
+        "name": "Australia",
+        "count": 1
+      },
+      {
+        "iso": "BEL",
+        "name": "Belgium",
+        "count": 1
+      },
+      {
+        "iso": "CAN",
+        "name": "Canada",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 26
+  },
+  {
+    "id": "NIC",
+    "country": "Nicaragua",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 12.8654,
+    "lng": -85.2072,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "NLD",
+    "country": "Netherlands",
+    "artistCount": 53,
+    "artworkCount": 420,
+    "lat": 52.1326,
+    "lng": 5.2913,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 113
+      },
+      {
+        "iso": "SVK",
+        "name": "Slovakia",
+        "count": 70
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 52
+      }
+    ],
+    "totalCollaborations": 448
+  },
+  {
+    "id": "NOR",
+    "country": "Norway",
+    "artistCount": 4,
+    "artworkCount": 5,
+    "lat": 60.472,
+    "lng": 8.4689,
+    "topCollaborators": [
+      {
+        "iso": "AUT",
+        "name": "Austria",
+        "count": 2
+      },
+      {
+        "iso": "NLD",
+        "name": "Netherlands",
+        "count": 1
+      },
+      {
+        "iso": "DNK",
+        "name": "Denmark",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 6
+  },
+  {
+    "id": "NZL",
+    "country": "New Zealand",
+    "artistCount": 3,
+    "artworkCount": 3,
+    "lat": -40.9006,
+    "lng": 174.886,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 2
+      },
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 1
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 4
+  },
+  {
+    "id": "PAK",
+    "country": "Pakistan",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 30.3753,
+    "lng": 69.3451,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "PAN",
+    "country": "Panama",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 8.538,
+    "lng": -80.7821,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "PER",
+    "country": "Peru",
+    "artistCount": 1,
+    "artworkCount": 7,
+    "lat": -9.19,
+    "lng": -75.0152,
+    "topCollaborators": [
+      {
+        "iso": "COL",
+        "name": "Colombia",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 1
+  },
+  {
+    "id": "PHL",
+    "country": "Philippines",
+    "artistCount": 2,
+    "artworkCount": 27,
+    "lat": 12.8797,
+    "lng": 121.774,
+    "topCollaborators": [
+      {
+        "iso": "DNK",
+        "name": "Denmark",
+        "count": 25
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 2
+      }
+    ],
+    "totalCollaborations": 27
+  },
+  {
+    "id": "POL",
+    "country": "Poland",
+    "artistCount": 18,
+    "artworkCount": 133,
+    "lat": 51.9194,
+    "lng": 19.1451,
+    "topCollaborators": [
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 14
+      },
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 10
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 8
+      }
+    ],
+    "totalCollaborations": 71
+  },
+  {
+    "id": "PRI",
+    "country": "Puerto Rico",
+    "artistCount": 2,
+    "artworkCount": 5,
+    "lat": 18.2208,
+    "lng": -66.5901,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 3
+      },
+      {
+        "iso": "SRB",
+        "name": "Serbia",
+        "count": 1
+      },
+      {
+        "iso": "AUS",
+        "name": "Australia",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 29
+  },
+  {
+    "id": "PRT",
+    "country": "Portugal",
+    "artistCount": 3,
+    "artworkCount": 13,
+    "lat": 39.3999,
+    "lng": -8.2245,
+    "topCollaborators": [
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 11
+      },
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 8
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 8
+      }
+    ],
+    "totalCollaborations": 56
+  },
+  {
+    "id": "PRY",
+    "country": "Paraguay",
+    "artistCount": 1,
+    "artworkCount": 2,
+    "lat": -23.4425,
+    "lng": -58.4438,
+    "topCollaborators": [
+      {
+        "iso": "ARG",
+        "name": "Argentina",
+        "count": 1
+      },
+      {
+        "iso": "BRA",
+        "name": "Brazil",
+        "count": 1
+      },
+      {
+        "iso": "COL",
+        "name": "Colombia",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 10
+  },
+  {
+    "id": "PSE",
+    "country": "Palestine",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 31.9522,
+    "lng": 35.2332,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "ROU",
+    "country": "Romania",
+    "artistCount": 8,
+    "artworkCount": 33,
+    "lat": 45.9432,
+    "lng": 24.9668,
+    "topCollaborators": [
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 5
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 3
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 3
+      }
+    ],
+    "totalCollaborations": 37
+  },
+  {
+    "id": "RUS",
+    "country": "Russia",
+    "artistCount": 47,
+    "artworkCount": 762,
+    "lat": 61.524,
+    "lng": 105.3188,
+    "topCollaborators": [
+      {
+        "iso": "UKR",
+        "name": "Ukraine",
+        "count": 88
+      },
+      {
+        "iso": "GEO",
+        "name": "Georgia",
+        "count": 41
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 28
+      }
+    ],
+    "totalCollaborations": 208
+  },
+  {
+    "id": "SDN",
+    "country": "Sudan",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 12.8628,
+    "lng": 30.2176,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "SEN",
+    "country": "Senegal",
+    "artistCount": 2,
+    "artworkCount": 1,
+    "lat": 14.4974,
+    "lng": -14.4524,
+    "topCollaborators": [
+      {
+        "iso": "AUS",
+        "name": "Australia",
+        "count": 1
+      },
+      {
+        "iso": "BEL",
+        "name": "Belgium",
+        "count": 1
+      },
+      {
+        "iso": "CAN",
+        "name": "Canada",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 26
+  },
+  {
+    "id": "SGP",
+    "country": "Singapore",
+    "artistCount": 1,
+    "artworkCount": 40,
+    "lat": 1.3521,
+    "lng": 103.8198,
+    "topCollaborators": [
+      {
+        "iso": "MYS",
+        "name": "Malaysia",
+        "count": 50
+      }
+    ],
+    "totalCollaborations": 50
+  },
+  {
+    "id": "SLV",
+    "country": "El Salvador",
+    "artistCount": 1,
+    "artworkCount": 1,
+    "lat": 13.7942,
+    "lng": -88.8965,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 1
+  },
+  {
+    "id": "SRB",
+    "country": "Serbia",
+    "artistCount": 6,
+    "artworkCount": 93,
+    "lat": 44.0165,
+    "lng": 21.0059,
+    "topCollaborators": [
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 3
+      },
+      {
+        "iso": "AUS",
+        "name": "Australia",
+        "count": 3
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 2
+      }
+    ],
+    "totalCollaborations": 10
+  },
+  {
+    "id": "SVK",
+    "country": "Slovakia",
+    "artistCount": 1,
+    "artworkCount": 40,
+    "lat": 48.669,
+    "lng": 19.699,
+    "topCollaborators": [
+      {
+        "iso": "NLD",
+        "name": "Netherlands",
+        "count": 70
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 70
+      }
+    ],
+    "totalCollaborations": 140
+  },
+  {
+    "id": "SVN",
+    "country": "Slovenia",
+    "artistCount": 3,
+    "artworkCount": 7,
+    "lat": 46.1512,
+    "lng": 14.9955,
+    "topCollaborators": [
+      {
+        "iso": "CZE",
+        "name": "Czech Republic",
+        "count": 1
+      },
+      {
+        "iso": "HUN",
+        "name": "Hungary",
+        "count": 1
+      },
+      {
+        "iso": "POL",
+        "name": "Poland",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 5
+  },
+  {
+    "id": "SWE",
+    "country": "Sweden",
+    "artistCount": 17,
+    "artworkCount": 66,
+    "lat": 60.1282,
+    "lng": 18.6435,
+    "topCollaborators": [
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 12
+      },
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 12
+      },
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 5
+      }
+    ],
+    "totalCollaborations": 87
+  },
+  {
+    "id": "SYR",
+    "country": "Syria",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 34.8021,
+    "lng": 38.9968,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "THA",
+    "country": "Thailand",
+    "artistCount": 3,
+    "artworkCount": 36,
+    "lat": 15.87,
+    "lng": 100.9925,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 5
+      },
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 4
+      },
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 3
+      }
+    ],
+    "totalCollaborations": 19
+  },
+  {
+    "id": "TUN",
+    "country": "Tunisia",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 33.8869,
+    "lng": 9.5375,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "TUR",
+    "country": "Turkey",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 38.9637,
+    "lng": 35.2433,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "TWN",
+    "country": "Taiwan",
+    "artistCount": 1,
+    "artworkCount": 6,
+    "lat": 23.6978,
+    "lng": 120.9605,
+    "topCollaborators": [
+      {
+        "iso": "CAN",
+        "name": "Canada",
+        "count": 6
+      },
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 6
+      },
+      {
+        "iso": "GRC",
+        "name": "Greece",
+        "count": 6
+      }
+    ],
+    "totalCollaborations": 30
+  },
+  {
+    "id": "TZA",
+    "country": "Tanzania",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": -6.369,
+    "lng": 34.8888,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "UGA",
+    "country": "Uganda",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": 1.3733,
+    "lng": 32.2903,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  },
+  {
+    "id": "UKR",
+    "country": "Ukraine",
+    "artistCount": 6,
+    "artworkCount": 151,
+    "lat": 48.3794,
+    "lng": 31.1656,
+    "topCollaborators": [
+      {
+        "iso": "RUS",
+        "name": "Russia",
+        "count": 88
+      },
+      {
+        "iso": "GEO",
+        "name": "Georgia",
+        "count": 18
+      },
+      {
+        "iso": "DEU",
+        "name": "Germany",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 111
+  },
+  {
+    "id": "URY",
+    "country": "Uruguay",
+    "artistCount": 8,
+    "artworkCount": 43,
+    "lat": -32.5228,
+    "lng": -55.7658,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 3
+      },
+      {
+        "iso": "BRA",
+        "name": "Brazil",
+        "count": 3
+      },
+      {
+        "iso": "ESP",
+        "name": "Spain",
+        "count": 2
+      }
+    ],
+    "totalCollaborations": 21
+  },
+  {
+    "id": "USA",
+    "country": "United States",
+    "artistCount": 795,
+    "artworkCount": 9338,
+    "lat": 37.0902,
+    "lng": -95.7129,
+    "topCollaborators": [
+      {
+        "iso": "FRA",
+        "name": "France",
+        "count": 564
+      },
+      {
+        "iso": "HUN",
+        "name": "Hungary",
+        "count": 401
+      },
+      {
+        "iso": "GBR",
+        "name": "United Kingdom",
+        "count": 201
+      }
+    ],
+    "totalCollaborations": 2507
+  },
+  {
+    "id": "UZB",
+    "country": "Uzbekistan",
+    "artistCount": 1,
+    "artworkCount": 6,
+    "lat": 41.3775,
+    "lng": 64.5853,
+    "topCollaborators": [
+      {
+        "iso": "RUS",
+        "name": "Russia",
+        "count": 1
+      }
+    ],
+    "totalCollaborations": 1
+  },
+  {
+    "id": "VEN",
+    "country": "Venezuela",
+    "artistCount": 17,
+    "artworkCount": 165,
+    "lat": 6.4238,
+    "lng": -66.5897,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 6
+      },
+      {
+        "iso": "BRA",
+        "name": "Brazil",
+        "count": 5
+      },
+      {
+        "iso": "COL",
+        "name": "Colombia",
+        "count": 4
+      }
+    ],
+    "totalCollaborations": 54
+  },
+  {
+    "id": "VNM",
+    "country": "Vietnam",
+    "artistCount": 4,
+    "artworkCount": 2,
+    "lat": 14.0583,
+    "lng": 108.2772,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 2
+      }
+    ],
+    "totalCollaborations": 2
+  },
+  {
+    "id": "ZAF",
+    "country": "South Africa",
+    "artistCount": 7,
+    "artworkCount": 82,
+    "lat": -30.5595,
+    "lng": 22.9375,
+    "topCollaborators": [
+      {
+        "iso": "USA",
+        "name": "United States",
+        "count": 18
+      },
+      {
+        "iso": "CAN",
+        "name": "Canada",
+        "count": 7
+      },
+      {
+        "iso": "CHE",
+        "name": "Switzerland",
+        "count": 7
+      }
+    ],
+    "totalCollaborations": 76
+  },
+  {
+    "id": "ZWE",
+    "country": "Zimbabwe",
+    "artistCount": 0,
+    "artworkCount": 0,
+    "lat": -19.0154,
+    "lng": 29.1549,
+    "topCollaborators": [],
+    "totalCollaborations": 0
+  }
+]

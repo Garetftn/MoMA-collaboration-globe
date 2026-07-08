@@ -1,0 +1,12 @@
+{
+  "builtAt": "2026-05-31T14:19:21.713652+00:00",
+  "crossCountryWorks": 2692,
+  "authorCount": 2337,
+  "nodeCount": 109,
+  "edgeCount": 712,
+  "artistCountMin": 1,
+  "artistCountMax": 795,
+  "artworkCountMin": 1,
+  "artworkCountMax": 9338,
+  "defaultMinWeight": 2
+}

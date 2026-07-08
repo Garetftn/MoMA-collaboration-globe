@@ -1,0 +1,2 @@
+# Large MoMA source file (~70 MB) — use Git LFS if available
+Artworks.csv filter=lfs diff=lfs merge=lfs -text
