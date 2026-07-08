@@ -92,8 +92,8 @@ Static output is in `frontend/dist/` — deploy to GitHub Pages, Netlify, or Ver
 | `nodes.json` | Per-country stats and top partners |
 | `edges.json` | Country-pair collaboration weights |
 | `author_points.json` | Author dot positions inside countries |
-| `author_summaries.json` | Lightweight author records for initial load |
-| `authors.json` | Full author records including works |
+| `author_summaries.json` | Author metadata, collaborations, and `workIds` |
+| `works.json` | Deduplicated artwork metadata keyed by work ID |
 | `country_polygons.json` | Pre-filtered GeoJSON for the globe |
 | `search_index.json` | Author search index |
 | `meta.json` | Build stats and defaults |

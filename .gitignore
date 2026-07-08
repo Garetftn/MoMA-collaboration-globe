@@ -1,6 +1,7 @@
-# Redundant / oversized JSON exports (use Artworks.csv + Artists.csv)
+# Redundant / oversized JSON exports
 Artworks.json
 Artists.json
+**/authors.json
 
 # Python
 .venv/

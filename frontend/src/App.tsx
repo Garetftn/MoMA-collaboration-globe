@@ -5,8 +5,8 @@ import { ErrorBoundary } from "./components/ErrorBoundary";
 import { SearchPanel } from "./components/SearchPanel";
 import { WeightFilter } from "./components/WeightFilter";
 import { useGlobeData } from "./hooks/useGlobeData";
-import type { AuthorSearchResult, GlobeNode } from "./types";
-import { buildAuthorMap, buildNodeMap } from "./utils";
+import type { Author, AuthorSearchResult, GlobeNode } from "./types";
+import { buildAuthorMap, buildNodeMap, hydrateAuthorWorks } from "./utils";
 import "./App.css";
 
 const GlobeView = lazy(() =>
@@ -18,6 +18,7 @@ function AppInner() {
   const [hoveredCountry, setHoveredCountry] = useState<GlobeNode | null>(null);
   const [selectedCountryIso, setSelectedCountryIso] = useState<string | null>(null);
   const [selectedAuthorId, setSelectedAuthorId] = useState<string | null>(null);
+  const [selectedAuthor, setSelectedAuthor] = useState<Author | null>(null);
   const [minWeight, setMinWeight] = useState(2);
 
   useEffect(() => {
@@ -50,7 +51,23 @@ function AppInner() {
     return hoveredCountry;
   }, [selectedAuthorId, selectedCountryIso, hoveredCountry, nodeMap, authorMap]);
 
-  const selectedAuthor = selectedAuthorId ? authorMap.get(selectedAuthorId) ?? null : null;
+  const selectedAuthorBase = selectedAuthorId ? authorMap.get(selectedAuthorId) ?? null : null;
+
+  useEffect(() => {
+    if (!selectedAuthorBase) {
+      setSelectedAuthor(null);
+      return;
+    }
+
+    let cancelled = false;
+    hydrateAuthorWorks(selectedAuthorBase).then((author) => {
+      if (!cancelled) setSelectedAuthor(author);
+    });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [selectedAuthorBase]);
 
   const handleCountrySelect = useCallback((iso: string | null) => {
     setSelectedCountryIso((current) => (current === iso ? null : iso));
@@ -72,6 +89,7 @@ function AppInner() {
 
   const handleUnpin = useCallback(() => {
     setSelectedAuthorId(null);
+    setSelectedAuthor(null);
   }, []);
 
   if (error) {

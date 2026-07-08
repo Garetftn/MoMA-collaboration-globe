@@ -10,6 +10,7 @@ import type {
   GlobeNode,
   RenderAuthorPoint,
   SearchIndexEntry,
+  WorkMeta,
 } from "./types";
 
 export function debounce<T extends (...args: never[]) => void>(
@@ -400,12 +401,7 @@ export async function loadGlobeData(): Promise<GlobeData> {
   ]);
 
   let authors: Author[] = authorSummaries ?? [];
-  if (!authors.length) {
-    const fullAuthors = await fetch("./data/authors.json").then((r) => r.json());
-    authors = fullAuthors.map((author: Author) => ({ ...author, works: [] }));
-  } else {
-    authors = authors.map((author: Author) => ({ ...author, works: [] }));
-  }
+  authors = authors.map((author: Author) => ({ ...author, works: [] }));
 
   return {
     nodes,
@@ -419,23 +415,26 @@ export async function loadGlobeData(): Promise<GlobeData> {
   };
 }
 
-export async function loadAuthorWorks(authors: Author[]): Promise<Author[]> {
-  try {
-    const fullAuthors: Author[] = await fetch("./data/authors.json").then((r) => r.json());
-    const detailById = new Map(
-      fullAuthors.map((author) => [author.id, { works: author.works, workCount: author.workCount }]),
-    );
-    return authors.map((author) => {
-      const detail = detailById.get(author.id);
-      return {
-        ...author,
-        works: detail?.works ?? [],
-        workCount: detail?.workCount ?? author.workCount ?? detail?.works.length ?? 0,
-      };
-    });
-  } catch {
-    return authors;
+let worksIndexCache: Record<string, WorkMeta> | null = null;
+
+async function getWorksIndex(): Promise<Record<string, WorkMeta>> {
+  if (!worksIndexCache) {
+    worksIndexCache = await fetch("./data/works.json").then((r) => r.json());
   }
+  return worksIndexCache;
+}
+
+export async function hydrateAuthorWorks(author: Author): Promise<Author> {
+  if (author.works.length > 0) return author;
+  const ids = author.workIds ?? [];
+  if (!ids.length) return { ...author, works: [] };
+
+  const index = await getWorksIndex();
+  const works = ids
+    .map((id) => index[String(id)])
+    .filter((work): work is WorkMeta => Boolean(work));
+
+  return { ...author, works };
 }
 
 export async function loadCountryGeoJson(

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import type { GlobeData } from "../types";
-import { loadAuthorWorks, loadGlobeData } from "../utils";
+import { loadGlobeData } from "../utils";
 
 export function useGlobeData() {
   const [data, setData] = useState<GlobeData | null>(null);
@@ -11,15 +11,7 @@ export function useGlobeData() {
 
     loadGlobeData()
       .then((core) => {
-        if (cancelled) return;
-        setData(core);
-        return loadAuthorWorks(core.authors);
-      })
-      .then((authorsWithWorks) => {
-        if (cancelled || !authorsWithWorks) return;
-        setData((current) =>
-          current ? { ...current, authors: authorsWithWorks } : current,
-        );
+        if (!cancelled) setData(core);
       })
       .catch((err: unknown) => {
         if (!cancelled) {

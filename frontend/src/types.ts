@@ -55,6 +55,7 @@ export interface Author {
   lat: number;
   lng: number;
   works: WorkMeta[];
+  workIds?: number[];
   workCount?: number;
   topCollaborations: AuthorCollaboration[];
   collaborations: AuthorCollaboration[];

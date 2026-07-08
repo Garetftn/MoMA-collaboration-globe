@@ -364,10 +364,19 @@ def build_network() -> None:
             }
         )
 
-    author_summaries = [
-        {key: value for key, value in record.items() if key != "works"}
-        for record in author_records
-    ]
+    author_summaries = []
+    works_index: dict[str, dict] = {}
+    for record in author_records:
+        work_ids: list[int] = []
+        for work in record["works"]:
+            work_id = work["workId"]
+            work_ids.append(work_id)
+            key = str(work_id)
+            if key not in works_index:
+                works_index[key] = work
+        summary = {key: value for key, value in record.items() if key != "works"}
+        summary["workIds"] = work_ids
+        author_summaries.append(summary)
 
     country_polygon_features = export_country_polygon_features(countries_map)
 
@@ -410,8 +419,8 @@ def build_network() -> None:
         "nodes.json": nodes,
         "edges.json": edges,
         "countries.json": countries_map,
-        "authors.json": author_records,
         "author_summaries.json": author_summaries,
+        "works.json": works_index,
         "author_points.json": author_points,
         "country_polygons.json": country_polygon_features,
         "meta.json": meta,
